@@ -2,13 +2,7 @@
 # screen
 SCREEN_WIDTH = 1600
 SCREEN_HEIGHT = 900
-TILZE_SIZE = 64
 
-PLAYER_WIDTH = 50
-PLAYER_HEIGHT = 20
-PLAYER_SPEED = 5
-BULLET_COOLDOWN = 2000
-WAVE_TIME = 10
 
 # colors
 BLACK = (0, 0, 0)
@@ -24,7 +18,7 @@ LIGHT_BLUE = (0, 100, 255)
 YELLOW = (255, 255, 0)
 PURPLE = (255, 0, 255)
 
-# tank image locations
+
 
 
 
